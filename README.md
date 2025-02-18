@@ -15,30 +15,30 @@
     <h1 class="sacramento-regular">I'm Jumana</h1>
     <p>A Programmer & Data Science student.</p>
     <p class="first">
-        <img class="img4" src="C:\Users\MAC\Desktop\web development\images\sun.png" width="200" height="200">
-        <img class="img2" src="C:\Users\MAC\Desktop\web development\images\sun flower.png" width="200" height="200">
+        <img class="img4" src="sun.png" width="200" height="200">
+        <img class="img2" src="sun flower.png" width="200" height="200">
     </p>
     <p>
-        <img class="img1" src="C:\Users\MAC\Desktop\web development\images\white flower.png" width="200" height="200">
-        <img class="img3" src="C:\Users\MAC\Desktop\web development\images\blond girl.png" alt="" width="450" height="450">
-        <img class="img5" src="C:\Users\MAC\Desktop\web development\images\bee.png" width="200" height="200">
+        <img class="img1" src="white flower.png" width="200" height="200">
+        <img class="img3" src="blond girl.png" alt="" width="450" height="450">
+        <img class="img5" src="bee.png" width="200" height="200">
     </p>
 </div>
 <div class="second">
-    <img class="img6" src="C:\Users\MAC\Desktop\web development\images\princess.png" width="200" height="250">
+    <img class="img6" src="princess.png" width="200" height="250">
 <h1 class="other-h">About me</h1>
 <center>
 <table>
-    <tr><td><p class="one">I'm currently studying Data Science </p></td><td><img src="C:\Users\MAC\Desktop\web development\images\statistics-unscreen.gif" width="200" height="200"></td></tr>
+    <tr><td><p class="one">I'm currently studying Data Science </p></td><td><img src="statistics-unscreen.gif" width="200" height="200"></td></tr>
 </table>
 <table>
-    <tr><td><img src="C:\Users\MAC\Desktop\web development\images\comp doodle.png" width="200" height="300"></td>
+    <tr><td><img src="comp doodle.png" width="200" height="300"></td>
         <td><p class="one">And i also want to be a web developer</p></td></tr>
 </table>
 </center>
 </div>
 <div class="third">
-    <center> <img class="img9" src="C:\Users\MAC\Desktop\web development\images\phone-unscreen.gif" width="200" height="200">
+    <center> <img class="img9" src="phone-unscreen.gif" width="200" height="200">
     </center>
 <center >
    <h1 class="two">contact me</h1>
