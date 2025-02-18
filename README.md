@@ -9,97 +9,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
-    <style>
-        body{
-    margin: 0;
-}
-.first{
-    background-color: #D4F6FF;
-    text-align: center;
-
-
-}
-h1{
-    font-size: 100px;
-    font-family:"Sofia",sans-serif;
-    margin-top: 0;
-    padding-top: 120px;
-    margin-bottom: 0px;
-    color:#A594F9;
-    
-}
-p{
-    font-family:"Sofia",sans-serif;
-    font-size: 30px;
-    margin-top: 20px;
-    margin-bottom: 0;
-    color: #CDC1FF;
-    
-}
-.img1{
-    position: relative;
-    left:800px;
-    top:9px;
-}
-.img2{
-    position: absolute;
-    left: 60px;
-    top:180px;
-}
-.img3{
-    position: relative;
-    top:9px;
-    right: 25px;
-}
-.img4{
-    position: absolute;
-    right: 60px;
-    top:180px;
-}
-.img5{
-    position: relative;
-    right:800px;
-}
-.second{
-    background-color: #F5EFFF;
-    text-align: center;
-}
-.other-h{
-    font-size: 55px;
-    padding-top: 7px;
-    color:#0F67B1;
-
-}
-.img6{
-    padding-top: 60px;
-}
-.one{
-color: #3FA2F6;
-}
-h1,.sacramento-regular {
-    font-family: "Sacramento", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-.img9{
-position: relative;
-top: 100px;
-}
-.third{
-    background-color: #B2A5FF;
-    height: 700px;
-}
-.two{
-    color: rgb(0, 0, 0);
-}
-.alumni-sans-pinstripe-regular {
-    font-family: "Alumni Sans Pinstripe", serif;
-    font-weight: 400;
-    font-style: normal;
-    color: rgb(0, 0, 0);
-  }
-
-    </style>
 </head>
 <body>
 <div class="first">
@@ -133,7 +42,6 @@ top: 100px;
     <center> <img class="img9" src="C:\Users\MAC\Desktop\web development\images\phone-unscreen.gif" width="200" height="200">
     </center>
 <center >
-    <!-- jumana -->
    <h1 class="two">contact me</h1>
    <p class="alumni-sans-pinstripe-regular">Email	"jumthaibi@gmail.com"</p>
    <p class="alumni-sans-pinstripe-regular">Mobile Number	"0786933907"</p>
