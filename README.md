@@ -15,7 +15,7 @@
     <h1 class="sacramento-regular">I'm Jumana</h1>
     <p>A Programmer & Data Science student.</p>
     <p class="first">
-        <img class="img4" src="sun.png" width="200" height="200">
+        <img class="img4" src="[sun.png](https://github.com/jumthaibi/cv/blob/main/sun.png)" width="200" height="200">
         <img class="img2" src="sun flower.png" width="200" height="200">
     </p>
     <p>
