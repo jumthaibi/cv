@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Jumana</title>
-    <link rel="stylesheet" href="C:\Users\MAC\Desktop\web development\css\style.css">
-    <link rel="icon" href="C:\Users\MAC\Desktop\web development\images\favicon (1).ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon (1).ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,7 +15,6 @@
     <h1 class="sacramento-regular">I'm Jumana</h1>
     <p>A Programmer & Data Science student.</p>
     <p class="first">
-        
         <img class="img4" src="C:\Users\MAC\Desktop\web development\images\sun.png" width="200" height="200">
         <img class="img2" src="C:\Users\MAC\Desktop\web development\images\sun flower.png" width="200" height="200">
     </p>
